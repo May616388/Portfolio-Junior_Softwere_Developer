@@ -19,7 +19,7 @@ function Navigation() {
         </a>
       </li>
       <li className="nav-li">
-        <a className="nav-link" href="https://drive.google.com/file/d/1hSuBti6_le7UUzQjm1OrDmrHoM7Ut96A/view?usp=sharing" target="_blank">
+        <a className="nav-link" href="https://drive.google.com/file/d/1EnQbHXAVeDDnBsNdXJnjl3Pm07uiEwoo/view?usp=sharing" target="_blank">
           CV
         </a>
       </li>
